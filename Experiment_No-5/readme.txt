@@ -1,1 +1,1 @@
-Performing EDA and applying best fit model
+Performing EDA and applying model which is best suited for data
