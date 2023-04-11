@@ -1,1 +1,1 @@
-Performing EDA and applying model which is best suited for heartdisease dataset
+Performing EDA and applying model to predict whether a person has heart disease
